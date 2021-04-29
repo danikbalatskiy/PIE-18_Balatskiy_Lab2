@@ -14,3 +14,4 @@ C:\project\PIE-18_Balatskiy_Lab2\WindowsFormsApplication1\WindowsFormsApplicatio
 C:\project\PIE-18_Balatskiy_Lab2\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
 C:\project\PIE-18_Balatskiy_Lab2\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
 C:\project\PIE-18_Balatskiy_Lab2\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\project\PIE-18_Balatskiy_Lab2\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
