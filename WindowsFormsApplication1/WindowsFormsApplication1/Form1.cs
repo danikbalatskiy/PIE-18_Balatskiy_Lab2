@@ -16,7 +16,7 @@ namespace WindowsFormsApplication1
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        private void Form1_Load(object sender, EventArgs e)
         {
 
         }
@@ -59,6 +59,16 @@ namespace WindowsFormsApplication1
             c = a / b;
             textBox3.Text = Convert.ToString(c);
             label4.Text = "Деление";
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            int a = Convert.ToInt32(textBox1.Text);
+            int b = Convert.ToInt32(textBox2.Text);
+            int c;
+            c = a*a + 2*a*b + b*b;
+            textBox3.Text = Convert.ToString(c);
+            label4.Text = "Квадрат";
         }
     }
 }
